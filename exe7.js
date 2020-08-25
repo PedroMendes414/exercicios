@@ -15,4 +15,5 @@ function exe7(){
     while(numero >= 0)
 
     console.log(`A média dos numeros informados é ${soma/conta}`)
+    
 }
